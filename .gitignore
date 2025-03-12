@@ -1,2 +1,5 @@
 *.class
 /tugas-2/App/nbproject/private/
+/tugas-2/App/build/
+/kuis/Kuis/nbproject/private/
+/kuis/Kuis/build/

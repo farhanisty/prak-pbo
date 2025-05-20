@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/farhannivta/kuliah/semester%204/pbo/Perpustakaan%20Yogyakarta/src/PerpustakaanYogyakarta.java</file>
+            <file>file:/home/farhannivta/kuliah/semester%204/pbo/Perpustakaan%20Yogyakarta/src/view/MainFrame.java</file>
+            <file>file:/home/farhannivta/kuliah/semester%204/pbo/Perpustakaan%20Yogyakarta/src/koneksi/Connector.java</file>
+            <file>file:/home/farhannivta/kuliah/semester%204/pbo/Perpustakaan%20Yogyakarta/src/model/Buku.java</file>
+            <file>file:/home/farhannivta/kuliah/semester%204/pbo/Perpustakaan%20Yogyakarta/src/view/MainView.java</file>
+            <file>file:/home/farhannivta/kuliah/semester%204/pbo/Perpustakaan%20Yogyakarta/src/view/BukuTableModel.java</file>
+            <file>file:/home/farhannivta/kuliah/semester%204/pbo/Perpustakaan%20Yogyakarta/src/repository/BukuRepositoryImpl.java</file>
+            <file>file:/home/farhannivta/kuliah/semester%204/pbo/Perpustakaan%20Yogyakarta/src/repository/BukuRepository.java</file>
+            <file>file:/home/farhannivta/kuliah/semester%204/pbo/Perpustakaan%20Yogyakarta/src/repository/BukuRepositoryFactory.java</file>
+            <file>file:/home/farhannivta/kuliah/semester%204/pbo/Perpustakaan%20Yogyakarta/src/presenter/BukuPresenter.java</file>
+        </group>
+    </open-files>
+</project-private>

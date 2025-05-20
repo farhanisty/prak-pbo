@@ -13,23 +13,29 @@ import java.awt.*;
  */
 public class MainFrame extends JFrame {
     private JButton motorBtn, mobilBtn;
+    private JLabel title = new JLabel("Aplikasi Rental");
+    
     public MainFrame() {
         this.setTitle("Halaman Baru");
 
-        this.setSize(400,600);
+        this.setSize(400,200);
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
-
-        this.setVisible(true);
         
         this.setLayout(new FlowLayout());
         
         this.motorBtn = new JButton("Motor");
         this.mobilBtn = new JButton("Mobil");
         
+        this.motorBtn.setBounds(90, 50, 100, 30);
+        this.mobilBtn.setBounds(210, 50, 100, 30);
+        
+        this.add(this.title);
         this.add(this.motorBtn);
         this.add(this.mobilBtn);
+        
+        this.setVisible(true);
         
         this.motorBtn.addActionListener(e -> new DetailFrame());
     }
